@@ -42,7 +42,11 @@ Game starts “frozen” and instructions will be displayed, which will disappea
 ### IV. Player Learning
 Take advantage of the jump button for what hearts you know are good and try to memorize which hearts are bad. Keep track of powers and memorize which power is associated with what color, and if it’s a stored power be sure to know when to time it properly.
 
-## VII. About the Developer
+## VII. Screenshots
+<img src="https://people.rit.edu/ajr6974/230/project1/media/proto%20gameplay.png" alt="example of gameplay" width="500"/>
+<img src="https://people.rit.edu/ajr6974/230/project1/media/proto%20UI.png" alt="example of UI" width="500"/>
+
+## VIII. About the Developer
 My name is Alex Rosenbach
 
 
