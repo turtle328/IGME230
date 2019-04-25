@@ -18,7 +18,7 @@ https://people.rit.edu/ajr6974/230/project1/project.html
 11. Played around with async to get cool timing effects with lose() method with explosions and sound effects.
 
 ## Met Requirements
-All requirements should be met as there are no errors, plenty of sounds and other media, clean UI, fully validated HTML/CSS, and etc.
+All requirements should be met as there are no errors, plenty of sounds and other media, clean UI, fully validated HTML/CSS, and much more.
 
 I feel I certainly went above and beyond with testing out async and using various tools to help me develop the game such as Photoshop for creating the cursor and TexturePacker for creating animated sprite sheets.
 
