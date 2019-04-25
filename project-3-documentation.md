@@ -1,6 +1,6 @@
 # Love is Deadly
 
-## Link to site
+## Link to project
 https://people.rit.edu/ajr6974/230/project1/project.html
 
 ## Progress Timeline
