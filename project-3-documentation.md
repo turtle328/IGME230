@@ -26,8 +26,9 @@ I feel I certainly went above and beyond with testing out async and using variou
 I feel me and Kyle worked hard on this project and I feel it deserves an A or at least an A-. I have spent many days on this project staying up very late, and I am very proud of it! Altogether it is over 1,000 lines of code, so it was quite of bit of work, but I think it was worth it and the game is very expandable in its current state. Perhaps I'll add powerups and other types of hearts, next for a good portfolio piece :)
 
 ## Sources
-* PixiJS Documentation - http://pixijs.download/fix/color-utils-docs/docs/index.html
-* PixiJS Tutorial - https://github.com/kittykatattack/learningPixi
+* Pixi.js Documentation - http://pixijs.download/fix/color-utils-docs/docs/index.html
+* Pixi.js Tutorial - https://github.com/kittykatattack/learningPixi
+* Howler.js docs (incredibly easy to use audio library) - https://github.com/goldfire/howler.js#documentation
 * Google Fonts - https://fonts.google.com/
 * Zapsplat (sound effects) - https://www.zapsplat.com/
 * DL Sounds - https://www.dl-sounds.com/
